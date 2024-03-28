@@ -1,0 +1,24 @@
+Bethlehem -> (55 km) Jaffa -> (100 km) Qalqilya -> (34 km) Tulkarem -> (57 km) Haifa -> (49 km) Jenin
+Total distance: 295 km
+BFS result:
+*********
+Bethlehem -> (9 km) Jerusalem -> (21 km) Ramallah -> (38 km) Salfit -> (53 km) Tulkarem -> (57 km) Haifa -> (49 km) Jenin
+Total distance: 227 km
+Dijkstra result:
+*********
+Bethlehem -> (55 km) Jaffa -> (100 km) Qalqilya -> (34 km) Tulkarem -> (57 km) Haifa -> (49 km) Jenin
+Total distance: 295 km
+BFS result:
+*********
+Bethlehem -> (9 km) Jerusalem -> (21 km) Ramallah -> (38 km) Salfit -> (53 km) Tulkarem -> (57 km) Haifa -> (49 km) Jenin
+Total distance: 227 km
+Dijkstra result:
+*********
+Jenin -> (52 km) Tulkarem -> (57 km) Haifa
+Total distance: 109 km
+BFS result:
+*********
+Jenin -> (38 km) Nazareth -> (33 km) Akka -> (35 km) Haifa
+Total distance: 106 km
+Dijkstra result:
+*********
